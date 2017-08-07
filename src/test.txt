@@ -1,0 +1,2 @@
+File test nam trong src
+Test chi de test thoi
